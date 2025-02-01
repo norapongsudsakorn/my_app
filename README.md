@@ -1,1 +1,1 @@
-# my_app
+# rust app
